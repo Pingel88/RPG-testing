@@ -14,15 +14,13 @@ _last major revision 4 February, 2021_
 
 ## Description
 * a role playing game (RPG)
-* tracks player and enemy health and other stats
+* tracks player and enemy stats (egs. health, accuracy, name, etc.)
 * there may also be other factors that influence enemy encounters:
 > armor
 > weaponry
-
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+* there is no user interface built for this one yet
 
 ## Setup/Installation Requirements
-
 * _This is a great place_
 * _to list setup instructions_
 * _in a simple_
@@ -59,16 +57,14 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 **Item class**
 * armor
 * weapon
+* Weapon does damage range, stats could modify range
 * money?
 * food?
 * magic seeing stones so you can start your own religion
 
-Health
-
-Strength could do more damage with a weapon
-Vitality could mean more health
-
-Weapon does damage range, stats could modify range
+**Health**
+* Strength could do more damage with a weapon
+* Vitality could mean more health
 
 for example, a crappy sword could do 1-10 damage, having a strength of 5 could add 5 to the damage roll or add 5 to the lower number of the range like 6-10
 
